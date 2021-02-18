@@ -1,0 +1,81 @@
+Java-8
+
+-lamda expression
+-funcational interface
+-method reference 
+-date
+-Collection framework
+	-Stream API
+	-Collections-static
+		-functional interface
+		
+		
+python-scripting
+c
+javascript
+jquery		
+
+
+CPP
+	-functional
+		4+5===9
+		
+		
+method reference
+	className::MethodName
+
+public void add(int a){
+
+}
+		
+		
+add(10);		
+
+int a=10;
+
+String s=new String();
+	s::split
+String::toUpperCase
+Student::getId
+Student::new  -->constructor calling
+
+
+new Date();
+
+LocalDateTime.now();
+SimpleDateFormat
+
+collection:
+	DM
+Stream APi :
+	operation
+	
+	
+	interface
+		-all methods are abstract
+			
+	functional interface   @functionalinterface--validation
+		-have only one abstract method		
+		-others are default method or static method
+
+		Runnable 
+		comparable
+		comparator
+		ActionListner
+
+-------------------------
+interface & abstract class
+
+mutiple inheritance
+	
+
+
+
+
+
+
+
+
+
+
+
