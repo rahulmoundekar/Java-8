@@ -1,8 +1,11 @@
 Java-8
 
--lamda expression
 -funcational interface
+-lamda expression
+	var->statement
+	
 -method reference 
+	
 -date
 -Collection framework
 	-Stream API
@@ -65,9 +68,38 @@ Stream APi :
 
 -------------------------
 interface & abstract class
-
 mutiple inheritance
 	
+
+
+
+String :: toUpperCase
+
+s.touppercase
+
+--------------------------------------------------
+Stream API
+	-operation
+	
+	
+Collection
+	-DM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
